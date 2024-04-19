@@ -132,22 +132,22 @@ h2 {
 
     .img1 {
         background-image: url('img/1.jpg');
-        animation: slide-animation-01 40s infinite;
+        animation: slide-animation-01 4s infinite;
     }
 
     .img2 {
         background-image: url('img/2.jpg');
-        animation: slide-animation-02 40s infinite;
+        animation: slide-animation-02 4s infinite;
     }
 
     .img3{
         background-image: url('img/3.jpg');
-        animation: slide-animation-03 40s infinite;
+        animation: slide-animation-03 4s infinite;
     }
 
     .img4{
         background-image: url('img/4.jpg');
-        animation: slide-animation-04 40s infinite;
+        animation: slide-animation-04 4s infinite;
     }
 
 @keyframes slide-animation-01 {
