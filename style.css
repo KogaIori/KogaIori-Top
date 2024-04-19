@@ -84,7 +84,7 @@ h2 {
     position: relative;
     width: 1280px;
     height: 720px;
-    overflow:scroll;
+    overflow:hidden;
     margin: 0 auto;
 }
 
