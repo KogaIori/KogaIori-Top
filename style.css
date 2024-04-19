@@ -2,6 +2,7 @@ body {
     font-family:'Times New Roman', Times, serif;
     background-color: #ebebeb;
     position: relative;
+    text-align: center;
 }
 
 @font-face {
@@ -65,10 +66,6 @@ h2 {
     height: auto;
     position: relative;
     margin-inline: auto;
-}
-
-.margin {
-    margin-left:1rem;
 }
 
 .noanker {
