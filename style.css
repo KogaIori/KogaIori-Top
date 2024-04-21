@@ -15,7 +15,7 @@ body {
 }
 
 div {
-    text-align: left;
+
 }
 
 .linechapter {
@@ -202,16 +202,9 @@ h2 {
    100% {opacity: 0;}
 }
 
-/* .parent{
-    width :360px;
-    height: 36px;
-    background-color: pink;
+.parent{
+    background-color: rgb(255, 255, 255);
     position: relative;
-    top:50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
 }
 
 .child{
@@ -221,16 +214,27 @@ h2 {
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
+    background-color: rgb(5, 87, 53);
 }
 
-.icon{
-    background-image: url('img/youtube_social_icon_dark.png');
-    position:relative;
-    top:0;
-    left:120px;
+.linkbox a {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 10%;
+    left: 56.6%;
     width: 40px;
-    height: 28px;
-    background-size: cover;
-    background-repeat: no-repeat;
+    height:40px;
+    opacity: 0.85;
 }
-*/
+
+.YouTube{
+    background-image: url('img/youtube_social_squircle_dark_resized.jpg');
+}
+
+.Instagram{
+    background-image: url('img/Instagram_Glyph_Black_resized.jpg');
+}
+
+.linkbox a:hover{
+    opacity: 0.66;
+}
