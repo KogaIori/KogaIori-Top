@@ -483,8 +483,6 @@ body {
     text-align: center;
 }
 
-
-
 .aboutcareer{
     border: 1px solid #00000000;
     text-align: left;
@@ -502,17 +500,9 @@ body {
     -ms-transform: translate(-50%, -50%);
 }
 
-.test{
-
-}
-
 @font-face {
     font-family: "myfont";
     src: url("../fonts/DLfont.ttf") format("opentype");
-}
-
-div {
-
 }
 
 .linechapter {
