@@ -5,6 +5,10 @@ body {
     text-align: center;
 }
 
+.about {
+    text-align: left;
+}
+
 .test{
 
 }
@@ -221,7 +225,7 @@ h2 {
     background-color: rgb(255, 255, 255);
     position: absolute;
     top: 10%;
-    left: 56.6%;
+    left: 58.0%;
     width: 40px;
     height:40px;
     opacity: 0.85;
