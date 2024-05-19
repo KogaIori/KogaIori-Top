@@ -5,8 +5,23 @@ body {
     text-align: center;
 }
 
-.about {
+
+
+.aboutcareer{
+    border: 1px solid #00000000;
     text-align: left;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-40%, 0%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.aboutskill {
+    width: 200px;
+    border: 1px solid #00000000;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, -50%);
 }
 
 .test{
@@ -66,8 +81,7 @@ h2 {
 }
 
 .sentence {
-    font-size: 1.2rem;
-    margin-left: 1rem
+    font-size: 1.4rem;
 }
 
 .img{
@@ -215,17 +229,15 @@ h2 {
     position: absolute;
     top:50%;
     left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: rgb(5, 87, 53);
+
+    background-color: rgba(5, 87, 53, 0);
 }
 
 .linkbox a {
     background-color: rgb(255, 255, 255);
     position: absolute;
     top: 10%;
-    left: 58.0%;
+    left: 55.5%;
     width: 40px;
     height:40px;
     opacity: 0.85;
