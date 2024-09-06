@@ -384,7 +384,8 @@ h2 {
         .img1 {
             background-image: url('img/1.jpg');
             animation: slide-animation-01 40s infinite;
-        }
+            -webkit-animation: slide-animation-01 40s infinite;
+}
     
         .img2 {
             background-image: url('img/2.jpg');
