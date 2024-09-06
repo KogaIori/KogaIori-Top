@@ -468,6 +468,10 @@ h2 {
         background-image: url('img/Instagram_Glyph_Black_resized.jpg');
     }
     
+    .TikTok{
+        background-image: url('img/TikTok-logo-RGB-Stacked-black-simplified_realized.jpg');
+    }
+
     .linkbox a:hover{
         opacity: 0.66;
     }
@@ -702,6 +706,10 @@ h2 {
 
 .Instagram{
     background-image: url('img/Instagram_Glyph_Black_resized.jpg');
+}
+
+.TikTok{
+    background-image: url('img/TikTok-logo-RGB-Stacked-black-simplified_realized.jpg');
 }
 
 .linkbox a:hover{
